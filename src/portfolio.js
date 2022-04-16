@@ -96,11 +96,11 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Jeevan Marg Sophia Secondary School",
-      logo: require("./assets/images/JeevanMarg.png"),
-      subHeader: "Deoria (U.P)",
-      duration: "till 10th",
-      desc: "May 2005 - April 2017"
+      schoolName: "Amrita Vishwa Vidyapeetham University",
+      logo: require("./assets/images/Amrita.png"),
+      subHeader: "Amritapuri, Kollam, Kerala",
+      duration: "B.Tech Electronics and Computer Engineering",
+      desc: "September 2020 - June 2024"
     },
     {
       schoolName: "Reliance Academy",
@@ -110,11 +110,11 @@ const educationInfo = {
       desc: "May 2017 - April 2019"
     },
     {
-      schoolName: "Amrita Vishwa Vidyapeetham University",
-      logo: require("./assets/images/Amrita.png"),
-      subHeader: "Amritapuri, Kollam, Kerala",
-      duration: "B.Tech Electronics and Computer Engineering",
-      desc: "September 2020 - June 2024"
+      schoolName: "Jeevan Marg Sophia Secondary School",
+      logo: require("./assets/images/JeevanMarg.png"),
+      subHeader: "Deoria (U.P)",
+      duration: "till 10th",
+      desc: "May 2005 - April 2017"
     }
   ]
 };
