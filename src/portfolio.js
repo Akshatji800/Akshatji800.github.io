@@ -85,6 +85,22 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "docker",
       fontAwesomeClassname: "fab fa-docker"
+    },
+    {
+      skillName: "java",
+      fontAwesomeClassname: "fab fa-java"
+    },
+    {
+      skillName: "VCS",
+      fontAwesomeClassname: "fab fa-git-alt"
+    },
+    {
+      skillName: "Linux",
+      fontAwesomeClassname: "fab fa-ubuntu"
+    },
+    {
+      skillName: "figma",
+      fontAwesomeClassname: "fab fa-figma"
     }
   ],
   display: true // Set false to hide this section, defaults to true
