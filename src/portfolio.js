@@ -168,7 +168,7 @@ const workExperiences = {
       date: "Nov 2021 – Feb 2022",
       desc: "",
       descBullets: [
-        "Worked as an intern in Traboda CyberLabs where my job was to manage their DevOps"
+        "Worked as an intern in Traboda CyberLabs where my job was to manage their DevOps."
       ]
     }
   ]
