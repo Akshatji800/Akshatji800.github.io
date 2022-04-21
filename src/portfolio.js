@@ -48,7 +48,7 @@ const socialMediaLinks = {
 const skillsSection = {
   title: "What I do",
   subTitle:
-    "FULL STACK ANDROID DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK AND GET CRAZY WHILE EXPLORING THEM ",
+    "FULL STACK ANDROID DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK AND GET CRAZY WHILE EXPLORING THEM.",
   skills: [
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your mobile and web applications"
